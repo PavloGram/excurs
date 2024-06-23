@@ -21,8 +21,8 @@ export default function Gallery() {
               <Image
                 src={el.src}
                 alt='exurs photo'
-                width={200}
-                height={100}
+                width={160}
+                height={80}
                 className="cursor-pointer transition duration-150 hover:scale-110"
                 onClick={() => handleChangeState(el.id)}
               />
