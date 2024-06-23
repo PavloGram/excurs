@@ -13,7 +13,7 @@ function Modal({
   currentImage,
   setCurrentImage,
 }) {
-    console.log(currentImage);
+   
   return (
     <>
       

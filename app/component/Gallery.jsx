@@ -8,6 +8,19 @@ export default function Gallery() {
   const [isActiveModal, setIsActiveModal] = useState(false);
   const [currentImage, setCurrentImage] = useState("");
 
+//   const gi = [
+
+//   ]
+
+// for (let index = 1; index < 250; index++) {
+//   gi.push(   {
+//     id: index,
+//     src: `/Images/img${index}.jpg`,
+    
+//   },)
+//   console.log(gi);
+// }
+
   function handleChangeState(src) {
     setIsActiveModal(true);
     setCurrentImage(src);

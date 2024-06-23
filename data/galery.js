@@ -1,100 +1,108 @@
-export const images = [
-    {
-      id: 1,
-      src: "/Images/img1.jpg",
-    },
-    {
-      id: 2,
-      src: "/Images/img2.jpg",
-      
-    },
-    {
-      id: 3,
-      src: "/Images/img3.jpg",
-      
-    },{
-      id: 4,
-      src: "/Images/img4.jpg",
-      
-    },
-    {
-      id: 5,
-      src: "/Images/img5.jpg",
-      
-    },
-    {
-      id: 6,
-      src: "/Images/img6.jpg",
-      
-    },
-    {
-      id: 7,
-      src: "/Images/img7.jpg",
-      
-    },
-    {
-      id: 8,
-      src: "/Images/img8.jpg",
-      
-    },
-    {
-      id: 9,
-      src: "/Images/img9.jpg",
-      
-    },
-    {
-      id: 10,
-      src: "/Images/img11.jpg",
-      
-    },
-    {
-      id: 11,
-      src: "/Images/img11.jpg",
-      
-    },
-    {
-      id: 12,
-      src: "/Images/img12.jpg",
-      
-    },
-    {
-      id: 13,
-      src: "/Images/img13.jpg",
-      
-    },
-    {
-      id: 14,
-      src: "/Images/img14.jpg",
-      
-    },
-    {
-      id: 15,
-      src: "/Images/img15.jpg",
-      
-    },
-    {
-      id: 16,
-      src: "/Images/img16.jpg",
-      
-    },
-    {
-      id: 17,
-      src: "/Images/img17.jpg",
-      
-    },
-    {
-      id: 18,
-      src: "/Images/img18.jpg",
-      
-    },
-    {
-      id: 19,
-      src: "/Images/img19.jpg",
-      
-    },
-    {
-      id: 20,
-      src: "/Images/img20.jpg",
-      
-    },
+export const images = 
+
+[
+  { id: 1, src: '/Images/img1.jpg' },
+  { id: 2, src: '/Images/img2.jpg' },
+  { id: 3, src: '/Images/img3.jpg' },
+  { id: 4, src: '/Images/img4.jpg' },
+  { id: 5, src: '/Images/img5.jpg' },
+  { id: 6, src: '/Images/img6.jpg' },
+  { id: 7, src: '/Images/img7.jpg' },
+  { id: 8, src: '/Images/img8.jpg' },
+  { id: 9, src: '/Images/img9.jpg' },
+  { id: 10, src: '/Images/img10.jpg' },
+  { id: 11, src: '/Images/img11.jpg' },
+  { id: 12, src: '/Images/img12.jpg' },
+  { id: 13, src: '/Images/img13.jpg' },
+  { id: 14, src: '/Images/img14.jpg' },
+  { id: 15, src: '/Images/img15.jpg' },
+  { id: 16, src: '/Images/img16.jpg' },
+  { id: 17, src: '/Images/img17.jpg' },
+  { id: 18, src: '/Images/img18.jpg' },
+  { id: 19, src: '/Images/img19.jpg' },
+  { id: 20, src: '/Images/img20.jpg' },
+  { id: 21, src: '/Images/img21.jpg' },
+  { id: 22, src: '/Images/img22.jpg' },
+  { id: 23, src: '/Images/img23.jpg' },
+  { id: 24, src: '/Images/img24.jpg' },
+  { id: 25, src: '/Images/img25.jpg' },
+  { id: 26, src: '/Images/img26.jpg' },
+  { id: 27, src: '/Images/img27.jpg' },
+  { id: 28, src: '/Images/img28.jpg' },
+  { id: 29, src: '/Images/img29.jpg' },
+  { id: 30, src: '/Images/img30.jpg' },
+  { id: 31, src: '/Images/img31.jpg' },
+  { id: 32, src: '/Images/img32.jpg' },
+  { id: 33, src: '/Images/img33.jpg' },
+  { id: 34, src: '/Images/img34.jpg' },
+  { id: 35, src: '/Images/img35.jpg' },
+  { id: 36, src: '/Images/img36.jpg' },
+  { id: 37, src: '/Images/img37.jpg' },
+  { id: 38, src: '/Images/img38.jpg' },
+  { id: 39, src: '/Images/img39.jpg' },
+  { id: 40, src: '/Images/img40.jpg' },
+  { id: 41, src: '/Images/img41.jpg' },
+  { id: 42, src: '/Images/img42.jpg' },
+  { id: 43, src: '/Images/img43.jpg' },
+  { id: 44, src: '/Images/img44.jpg' },
+  { id: 45, src: '/Images/img45.jpg' },
+  { id: 46, src: '/Images/img46.jpg' },
+  { id: 47, src: '/Images/img47.jpg' },
+  { id: 48, src: '/Images/img48.jpg' },
+  { id: 49, src: '/Images/img49.jpg' },
+  { id: 50, src: '/Images/img50.jpg' },
+  { id: 51, src: '/Images/img51.jpg' },
+  { id: 52, src: '/Images/img52.jpg' },
+  { id: 53, src: '/Images/img53.jpg' },
+  { id: 54, src: '/Images/img54.jpg' },
+  { id: 55, src: '/Images/img55.jpg' },
+  { id: 56, src: '/Images/img56.jpg' },
+  { id: 57, src: '/Images/img57.jpg' },
+  { id: 58, src: '/Images/img58.jpg' },
+  { id: 59, src: '/Images/img59.jpg' },
+  { id: 60, src: '/Images/img60.jpg' },
+  { id: 61, src: '/Images/img61.jpg' },
+  { id: 62, src: '/Images/img62.jpg' },
+  { id: 63, src: '/Images/img63.jpg' },
+  { id: 64, src: '/Images/img64.jpg' },
+  { id: 65, src: '/Images/img65.jpg' },
+  { id: 66, src: '/Images/img66.jpg' },
+  { id: 67, src: '/Images/img67.jpg' },
+  { id: 68, src: '/Images/img68.jpg' },
+  { id: 69, src: '/Images/img69.jpg' },
+  { id: 70, src: '/Images/img70.jpg' },
+  { id: 71, src: '/Images/img71.jpg' },
+  { id: 72, src: '/Images/img72.jpg' },
+  { id: 73, src: '/Images/img73.jpg' },
+  { id: 74, src: '/Images/img74.jpg' },
+  { id: 75, src: '/Images/img75.jpg' },
+  { id: 76, src: '/Images/img76.jpg' },
+  { id: 77, src: '/Images/img77.jpg' },
+  { id: 78, src: '/Images/img78.jpg' },
+  { id: 79, src: '/Images/img79.jpg' },
+  { id: 80, src: '/Images/img80.jpg' },
+  { id: 81, src: '/Images/img81.jpg' },
+  { id: 82, src: '/Images/img82.jpg' },
+  { id: 83, src: '/Images/img83.jpg' },
+  { id: 84, src: '/Images/img84.jpg' },
+  { id: 85, src: '/Images/img85.jpg' },
+  { id: 86, src: '/Images/img86.jpg' },
+  { id: 87, src: '/Images/img87.jpg' },
+  { id: 88, src: '/Images/img88.jpg' },
+  { id: 89, src: '/Images/img89.jpg' },
+  { id: 90, src: '/Images/img90.jpg' },
+  { id: 91, src: '/Images/img91.jpg' },
+  { id: 92, src: '/Images/img92.jpg' },
+  { id: 93, src: '/Images/img93.jpg' },
+  { id: 94, src: '/Images/img94.jpg' },
+  { id: 95, src: '/Images/img95.jpg' },
+  { id: 96, src: '/Images/img96.jpg' },
+  { id: 97, src: '/Images/img97.jpg' },
+  { id: 98, src: '/Images/img98.jpg' },
+  { id: 99, src: '/Images/img99.jpg' },
+  { id: 100, src: '/Images/img100.jpg' },
   ];
+
+
+
+  
