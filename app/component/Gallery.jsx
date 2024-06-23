@@ -12,7 +12,7 @@ export default function Gallery() {
 
 //   ]
 
-// for (let index = 1; index < 250; index++) {
+// for (let index = 201; index < 238; index++) {
 //   gi.push(   {
 //     id: index,
 //     src: `/Images/img${index}.jpg`,

@@ -22,7 +22,7 @@ function Modal({
           onClick={() => setIsActiveModal(false)}
         >
           <div
-            className={`  relative mt-2 p-5 pt-10 bg-white pointer-events-auto  `}
+            className={`  relative mt-2 p-5 pt-10 bg-white pointer-events-auto   `}
             onClick={(e) => e.stopPropagation()}
           >
             <button
